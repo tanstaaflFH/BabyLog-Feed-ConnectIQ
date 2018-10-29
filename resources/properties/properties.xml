@@ -1,0 +1,4 @@
+<properties>
+    <property id="appVersion" type="string">1.0.3</property>
+    <property id="dividerWidth" type="number">1</property>
+</properties>
