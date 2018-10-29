@@ -16,8 +16,8 @@ The last 10 feeds are stored.
 -- Swipe left to go back
 
 ## Screenshots
-![VivoActive3 Main Screen](screenshots/vivoactive3_Main.png)
-![VivoActive3 Log Screen](screenshots/vivoactive3_Log.png)
+![VivoActive3 Main Screen](screenshots/vivoactive3_Main.PNG)
+![VivoActive3 Log Screen](screenshots/vivoactive3_Log.PNG)
 
 ## Disclaimer
 This is my first ConnectIQ app and I tailored it completely to my wishes / needs.
