@@ -25,7 +25,7 @@ class Feeds {
 		if ( mTimeArray[8] != null ) {
 			mDurationArray.add(feedTime.subtract(mTimeArray[8]));
 			mDurationArray = mDurationArray.slice(1,null);
-			System.println("Updated deltas class: " + mDurationArray);
+			//System.println("Updated deltas class: " + mDurationArray);
 		}
 		
 		saveTimes();
