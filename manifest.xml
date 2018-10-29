@@ -2,6 +2,7 @@
     <iq:application entry="BabyLogFeedApp" id="1afd4774cf314c0e88e3923704c69594" launcherIcon="@Drawables.LauncherIcon" minSdkVersion="3.0.0" name="@Strings.AppName" type="widget" version="0.0.0">
         <iq:products>
             <iq:product id="vivoactive3"/>
+            <iq:product id="vivoactive3m"/>
         </iq:products>
         <iq:permissions>
             <iq:uses-permission id="PersistedContent"/>
