@@ -24,9 +24,11 @@ class Feeds {
 		//! calculate the new deltas between the times, deleting the oldest entry
 		if ( mTimeArray[8] != null ) {
 			mDurationArray.add(feedTime.subtract(mTimeArray[8]));
-			mDurationArray = mDurationArray.slice(1,null);
 			//System.println("Updated deltas class: " + mDurationArray);
+		} else {
+			mDurationArray.add(null);
 		}
+		mDurationArray = mDurationArray.slice(1,null);
 		
 		saveTimes();
 		
@@ -149,7 +151,7 @@ class Feeds {
 			
 		} catch (ex) {
 		
-			System.println("Could not load TimeArray from Storage: " + ex);
+			System.println("Could not load TimeArray from Storage: " + ex.getErrorMessage());
 			
 		}
 			
@@ -166,7 +168,7 @@ class Feeds {
 		
 		} catch (ex) {
 		
-			System.println("Could not load DurationArray from Storage: " + ex);
+			System.println("Could not load DurationArray from Storage: " + ex.getErrorMessage());
 			
 		}
 		
