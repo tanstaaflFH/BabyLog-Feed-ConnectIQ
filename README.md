@@ -1,4 +1,4 @@
-# BabyLog: Feed
+![Hero](./screenshots/hero.jpeg)
 A Widget for Garmin ConnectIQ (currently: VivoActive3 / Music)
 
 ## Intention
