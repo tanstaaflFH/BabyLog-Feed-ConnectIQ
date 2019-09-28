@@ -12,8 +12,9 @@ The last 10 feeds are stored.
 - Tap on the yellow button at the top to add a new feed time
 - Tap on the three dots at the bottom to open the log screen with the ten last feed times.
 - On the second screen:
--- Scroll up and down to see all ten entries
--- Swipe left to go back
+
+  Scroll up and down to see all ten entries
+  Swipe left to go back
 
 ## Screenshots
 ![VivoActive3 Main Screen](./screenshots/vivoactive3_Main.PNG)

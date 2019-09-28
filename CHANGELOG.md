@@ -2,8 +2,7 @@
 
 #### New functionality
 
-- A new entry can now be added with the ENTER/SELECT button
-- To reach the log screen you can now tap anywhere on the main screen beside the yellow button  
+- none
 
 #### bug-fixes
 
