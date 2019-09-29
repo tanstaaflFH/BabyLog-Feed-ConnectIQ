@@ -1,0 +1,8 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <drawable-list id="ButtonBorders" >
+    	<shape type="rectangle" height="50" color="Gfx.COLOR_YELLOW" />
+    	<shape type="rectangle" y="50" height="5" color="Gfx.COLOR_WHITE" />
+    	<shape type="rectangle" y="170" height="5" color="Gfx.COLOR_WHITE" />
+    </drawable-list>
+</drawables>

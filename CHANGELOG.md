@@ -8,3 +8,13 @@
 #### bug-fixes
 
 - The main screen was not always updated after a new entry was added
+
+### 1.1.0 - 28.09.2019:
+
+#### New functionality
+
+- Support for Vivoactive 4  
+
+#### bug-fixes
+
+- N/A
