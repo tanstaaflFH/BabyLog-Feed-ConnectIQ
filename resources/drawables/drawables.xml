@@ -3,9 +3,9 @@
     <bitmap id="AddFeedIconDefault" filename="icon_bottle_default.png" />
     <bitmap id="AddFeedIconPressed" filename="icon_bottle_pressed.png" />    
     <drawable-list id="ButtonBorders" >
-    	<shape type="rectangle" height="55" color="Gfx.COLOR_YELLOW" />
-    	<shape type="rectangle" y="55" height="5" color="Gfx.COLOR_WHITE" />
-    	<shape type="rectangle" y="200" height="5" color="Gfx.COLOR_WHITE" />
+    	<shape type="rectangle" height="25%" color="Gfx.COLOR_YELLOW" />
+    	<shape type="rectangle" y="25%" height="5" color="Gfx.COLOR_WHITE" />
+    	<shape type="rectangle" y="80%" height="5" color="Gfx.COLOR_WHITE" />
     </drawable-list>
     <drawable-list id="logHeader" >
     	<shape type="rectangle" height="40" color="Gfx.COLOR_YELLOW" />

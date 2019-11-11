@@ -43,7 +43,7 @@ class EntryView extends WatchUi.View {
 		
 		//! update last feed elapsed label
 		View.findDrawableById("lblElapsedFeed").setText("Elapsed: " + mCurrentFeeds.getDurationString("now"));	
-			
+
 	}
 
 }

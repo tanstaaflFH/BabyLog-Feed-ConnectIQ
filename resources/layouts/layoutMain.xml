@@ -1,15 +1,15 @@
 <layout id="MainLayout">
-    <label id="lblLastFeed" font="Graphics.FONT_SMALL" x="center" y="90" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" />
-    <label id="lblElapsedFeed" font="Graphics.FONT_SMALL" x="center" y="130" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" />
-    <label id="targetMore" font="Graphics.FONT_MEDIUM" x="center" y="195" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" text="..." />
+    <label id="lblLastFeed" font="Graphics.FONT_SMALL" x="center" y="37%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" />
+    <label id="lblElapsedFeed" font="Graphics.FONT_SMALL" x="center" y="55%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" />
+    <label id="targetMore" font="Graphics.FONT_MEDIUM" x="center" y="80%" justification="Graphics.TEXT_JUSTIFY_CENTER" color="0xFFFFFF" text="..." />
     <drawable id="ButtonBorders" />        
-    <button x="center" y="10" width="36" height="36" background="Gfx.COLOR_TRANSPARENT" behavior="onAddFeed">
+    <button x="center" y="5%" width="36" height="36" background="Gfx.COLOR_TRANSPARENT" behavior="onAddFeed">
     	<state id="stateDefault" bitmap="@Drawables.AddFeedIconDefault" />
     	<state id="stateSelected" bitmap="@Drawables.AddFeedIconPressed" />
     	<state id="stateHighlighted" bitmap="@Drawables.AddFeedIconPressed" />
     	<state id="stateDisabled" color="Gfx.COLOR_TRANSPARENT" />    	    	
     </button>
-    <button x="center" y="205" width="240" height="35" background="Gfx.COLOR_TRANSPARENT" behavior="onNextPage" >
+    <button x="center" y="80%" width="240" height="20%" background="Gfx.COLOR_TRANSPARENT" behavior="onNextPage" >
     	<state id="stateDefault" color="Gfx.COLOR_TRANSPARENT" />
     	<state id="stateSelected" color="Gfx.COLOR_WHITE" />
     	<state id="stateHighlighted" color="Gfx.COLOR_WHITE" />

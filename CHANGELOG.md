@@ -13,7 +13,9 @@
 
 #### New functionality
 
-- Support for Vivoactive 4  
+- Support for most wearables
+- Vivoactive 3 / 4 (all)
+- Fenix 3 / 5 / 6  
 
 #### bug-fixes
 
