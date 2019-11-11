@@ -1,5 +1,5 @@
 ![Hero](./screenshots/hero.jpeg)
-A Widget for Garmin ConnectIQ (currently: VivoActive3 / Music)
+A Widget for Garmin ConnectIQ (currently: VivoActive 3 / 4 / 4s & Venu)
 
 ## Intention
 This is a simple widget used to mark / log the times you feed your baby.

@@ -22,42 +22,20 @@ class EntryDelegate extends WatchUi.BehaviorDelegate {
 		
 		//!	get current time and update feed class
 		mCurrentFeeds.addFeed(Time.now());
-		System.println("New feed list: " + mCurrentFeeds.getFeeds());
+		//! System.println("New feed list: " + mCurrentFeeds.getFeeds());
 		
 		//! update labels
 		mParentView.updateLabels();
 			
 	}
-	
-    function onBack() {
-		System.println("Behaviour: onBack");
-    }
-
-    function onMenu() {
-		System.println("Behaviour: onMenu");
-    }
-
-    function onNextMode() {
-		System.println("Behaviour: onNextMode");
-    }
-        
+	      
     function onNextPage() {
-		System.println("Behaviour: onNextPage");
+		//! System.println("Behaviour: onNextPage");
 		return pushMenu(WatchUi.SLIDE_IMMEDIATE);
     }
-
-    function onPreviousMode() {
-		System.println("Behaviour: onPreviousMode");
-		return false;
-    }
-        
-    function onPreviousPage() {
-		System.println("Behaviour: onPreviousPage");
-		return true;
-    }
-        
+       
     function onSelect() {
-		System.println("Behaviour: onSelect");
+		//! System.println("Behaviour: onSelect");
 		return onAddFeed();
     }
     

@@ -5,3 +5,6 @@ base.resourcePath = resources
 # Set the vivoactive 4 series resource locations
 vivoactive4.resourcePath = $(vivoactive4.resourcePath);vivoactive4-resources
 vivoactive4s.resourcePath = $(vivoactive4s.resourcePath);vivoactive4s-resources
+
+# set the venu resource locations
+venu.resourcePath = $(venu.resourcePath);venu-resources

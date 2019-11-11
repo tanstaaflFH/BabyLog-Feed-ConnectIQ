@@ -1,0 +1,15 @@
+<layout id="LogLayout">
+	<drawable id="logHeader" />
+    <label id="lblLogHeader" font="Graphics.FONT_TINY" x="center" y="8" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLACK" text="Feed Log" />
+    <drawable id="logDividers" />
+    <label id="lblFeedLogTime0" font="Graphics.FONT_XTINY" x="center" y="42" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblFeedLogDuration0" font="Graphics.FONT_XTINY" x="center" y="56" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblFeedLogTime1" font="Graphics.FONT_XTINY" x="center" y="78" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblFeedLogDuration1" font="Graphics.FONT_XTINY" x="center" y="92" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblFeedLogTime2" font="Graphics.FONT_XTINY" x="center" y="115" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblFeedLogDuration2" font="Graphics.FONT_XTINY" x="center" y="129" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblFeedLogTime3" font="Graphics.FONT_XTINY" x="center" y="152" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblFeedLogDuration3" font="Graphics.FONT_XTINY" x="center" y="166" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblFeedLogTime4" font="Graphics.FONT_XTINY" x="center" y="186" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />
+    <label id="lblFeedLogDuration4" font="Graphics.FONT_XTINY" x="center" y="200" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="--" />                      
+</layout>
