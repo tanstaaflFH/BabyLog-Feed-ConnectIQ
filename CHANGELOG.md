@@ -2,7 +2,7 @@
 
 #### New functionality
 
-- A new entry can now be added with the ENTER/SELECT button
+- none
 
 #### bug-fixes
 
